@@ -5,4 +5,4 @@ celerybeat-schedule.dir
 venv
 config/__pycache__
 src/manager/__pycache__/
-src/manager/__pycache__/
+src/users/__pycache__/
