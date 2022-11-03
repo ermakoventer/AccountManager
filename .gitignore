@@ -3,3 +3,6 @@ celerybeat-schedule.bak
 celerybeat-schedule.dat
 celerybeat-schedule.dir
 venv
+config/__pycache__
+src/manager/__pycache__/
+src/manager/__pycache__/
